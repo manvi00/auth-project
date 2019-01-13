@@ -1,0 +1,28 @@
+input.ng-invalid.ng-touched{
+    border:2px solid red;
+}
+.help-block{
+    color:white;
+}
+button{
+    border-radius: 20px;
+    width: 240px;
+}
+input[type=text],[type=password] {
+    border: none;
+    width: 240px;
+    border-radius: 20px;
+  }
+  .container{
+    padding: 200px;
+}
+.des{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom:40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.grp{
+    padding-left: 235px;
+}
